@@ -15,6 +15,16 @@ This repo is a free sampler. The full **Git Unfucked** reference covers all 32 r
 
 ---
 
+## Free guides on our blog
+
+- [5 Git Mistakes Every Developer Makes (And How to Fix Them)](https://highfadefree.vercel.app/blog/git-mistakes)
+- [The Git Recovery Cheatsheet](https://highfadefree.vercel.app/blog/git-recovery-cheatsheet)
+- [How to Undo a Git Commit (The Right Way)](https://highfadefree.vercel.app/blog/undo-git-commit)
+- [How to Recover a Deleted Git Branch](https://highfadefree.vercel.app/blog/recover-deleted-git-branch)
+- [How to Fix git stash pop Conflicts](https://highfadefree.vercel.app/blog/fix-git-stash-pop-conflicts)
+
+---
+
 ## 1. I committed to main instead of my branch
 
 ```bash
