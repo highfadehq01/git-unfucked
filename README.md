@@ -1,8 +1,17 @@
 # Git Unfucked
 
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/highfadehq01/git-unfucked?style=social)](https://github.com/highfadehq01/git-unfucked/stargazers)
+
 **10 real-world Git rescue scenarios.** Each one: what happened, what to do, and why it works.
 
 No fluff. No theory. Just the commands you need when Git has you cornered.
+
+## ⚡ Get the full version — 32 scenarios, $2
+
+This repo is a free sampler. The full **Git Unfucked** reference covers all 32 rescue scenarios including rebase disasters, cherry-pick gone wrong, squash/split commits, bisect workflows, and remote tracking fixes.
+
+**[Get Git Unfucked on Gumroad →](https://sadafade.gumroad.com/l/wqlrx)**
 
 ---
 
@@ -135,7 +144,7 @@ git commit -c ORIG_HEAD
 
 ---
 
-## Want the full version?
+## Want all 32 scenarios?
 
 This is 10 of 32 scenarios from **Git Unfucked** — the complete interactive Git recovery reference.
 
