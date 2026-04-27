@@ -23,6 +23,10 @@ This repo is a free sampler. The full **Git Unfucked** reference covers all 32 r
 - [How to Recover a Deleted Git Branch](https://highfadefree.vercel.app/blog/recover-deleted-git-branch)
 - [How to Fix git stash pop Conflicts](https://highfadefree.vercel.app/blog/fix-git-stash-pop-conflicts)
 
+### Also on Dev.to
+
+- [How to Undo a Git Commit (The Right Way)](https://dev.to/highfadehq01/how-to-undo-a-git-commit-the-right-way-44po)
+
 ---
 
 ## 1. I committed to main instead of my branch
