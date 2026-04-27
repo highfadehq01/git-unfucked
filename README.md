@@ -171,6 +171,12 @@ The full version includes:
 
 ---
 
+## More from the Unfucked series
+
+- **[Bash Unfucked](https://github.com/highfadehq01/bash-unfucked)** — 30 Bash rescue scenarios. Quoting, pipes, cron, error handling, portability.
+
+---
+
 Built by **[High Fade Free](https://highfadefree.vercel.app)** — minimal, precision developer tools.
 
 *Ship clean. Stay sharp.*
